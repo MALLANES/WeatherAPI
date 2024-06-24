@@ -1,0 +1,75 @@
+#searchSpace {
+    background-color: rgb(170, 170, 255);
+    height: 32rem;
+    border-radius: 10px;
+}
+
+#searchHistory {
+    padding-left: 1rem;
+}
+
+#CResults {
+    background-color: rgb(170, 170, 255);
+    border-radius: 10px;
+}
+
+#forecast-results {
+    flex-wrap: nowrap;
+}
+
+#header {
+    height: 5rem!important;
+}
+
+#submit-btn {
+    background-color: rgb(106, 106, 255);
+}
+
+.card img {
+    height: 3.5rem;
+    
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 1rem;
+}
+
+.jumbotron-fluid {
+    padding: 0.25rem;
+    text-align: center;
+    background-color: rgb(170, 170, 255);
+}
+
+.otherBtn {
+    margin-bottom: 5px!important;
+    padding: 0.5rem!important;
+}
+
+.card {
+    width: 9rem;
+    height: 10rem;
+    background-color: rgb(106, 106, 255);
+    margin-right: 0.25rem;
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+.card-title {
+    margin-bottom: -0.5rem;
+}
+
+.col-md-10 {
+    max-width: 100%;
+}
+
+label {
+    font-size: 1.5rem;
+}
+
+button {
+    background-color: rgb(106, 106, 255)!important;
+}
